@@ -1,0 +1,10 @@
+openai
+chromadb
+elasticsearch7
+nltk
+transformers
+torch
+sentence_transformers
+fitz
+frontend
+pymupdf
