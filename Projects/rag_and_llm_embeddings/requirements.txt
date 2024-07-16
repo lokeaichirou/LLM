@@ -8,3 +8,5 @@ sentence_transformers
 fitz
 frontend
 pymupdf
+git+https://github.com/THU-MIG/yolov10.git
+supervision
