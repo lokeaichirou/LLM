@@ -600,38 +600,6 @@ ELASTICSEARCH_NAME     = os.getenv('ELASTICSEARCH_NAME')
 ```
 
 
-```python
-ELASTICSEARCH_BASE_URL
-```
-
-
-
-
-    'http://39.106.15.22:9200/'
-
-
-
-
-```python
-ELASTICSEARCH_PASSWORD
-```
-
-
-
-
-    'FKaB1Jpz0Rlw0l6G'
-
-
-
-
-```python
-ELASTICSEARCH_NAME
-```
-
-
-
-
-    'elastic'
 
 
 
