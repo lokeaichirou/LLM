@@ -22,7 +22,7 @@ import supervision as sv
 model  = YOLOv10('yolov10x_best.pt')
 client = OpenAI()
 
-pdf_file          = 'DataScience Interview Questions.pdf'
+pdf_file          = "Projects/DataScience Interview Questions.pdf"
 corpus            = extract_questions_from_pdf(pdf_file)
 original_corpus   = extract_questions_from_pdf(pdf_file)
 
